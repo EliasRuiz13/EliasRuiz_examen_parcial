@@ -5,7 +5,7 @@ const opts = {
                 alias:'b'
             },
       limite: {
-                alias:'limit',
+                alias:'l',
                 default:10
             }
 }
